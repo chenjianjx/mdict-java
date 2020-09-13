@@ -7,7 +7,7 @@ import com.sun.media.jai.codec.SeekableStream;
 import org.apache.commons.imaging.Imaging;
 import org.apache.commons.imaging.ImagingConstants;
 import org.apache.commons.imaging.common.BufferedImageFactory;
-import test.privateTest.generalT;
+// import test.privateTest.generalT;
 
 import javax.imageio.ImageIO;
 import javax.media.jai.JAI;
